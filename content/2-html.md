@@ -15,6 +15,11 @@ The rest of the web page is **nested** inside the root element, so the final tag
 
 ## Create a web page
 
+Additionally, each user and [organization](https://evanwill.github.io/_drafts/notes/github-org.html) can have one root site by creating a repository called `username.github.io` (replace username with your actual username!).
+The site will automatically appear in the github.io domain following this pattern: 
+
+`https://username.github.io/repositoryname/`
+
 Create a new repository on GitHub:
 
 - Click the plus sign in the upper right
