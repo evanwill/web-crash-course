@@ -90,10 +90,12 @@ Our basic page, introducing head, title, body, headings, and paragraphs:
 
 Add:
 
-- inline elements: `<strong>bold</strong>` and `<em>italic</em>`
-- hyperlink: `<a href="about.html">About page</a>` (note: relative vs. absolute links)
-- image: `<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/640px-Cat_poster_1.jpg" alt="six different cats">`
-- lists:
+- comment, `<!-- not displayed -->`
+- inline elements, `<strong>bold</strong>` and `<em>italic</em>`
+- hyperlink, `<a href="about.html">About page</a>` (note: relative vs. absolute links)
+- image, `<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/640px-Cat_poster_1.jpg" alt="six different cats">`
+- div, `<div><p>In a div?</p></div>` (don't have specific semantic meaning, but group elements together so are often used for layout)
+- lists,
 
 ```
 <ul>
