@@ -86,6 +86,7 @@ Then, add the font to your CSS:
 
 # Resources 
 
+- CSS [w3schools selector reference](https://www.w3schools.com/cssref/css_selectors.asp) or [MDN selectors reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - CSS [Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity), [Inheritance](https://developer.mozilla.org/en-US/docs/Web/CSS/Inheritance), and [Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
 - [Bootstrap docs](https://getbootstrap.com/docs/) and [Bootstrap examples](https://getbootstrap.com/docs/4.3/examples/)
 - [Get Started with Google Fonts](https://developers.google.com/fonts/docs/getting_started)

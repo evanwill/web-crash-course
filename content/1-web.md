@@ -32,7 +32,7 @@ This is a great way to learn about HTML and to understand how others created the
 # Uniform Resource Locators
 
 Of course to get that code we need an web address. 
-The links in your address bar are Uniform Resource Locators, **URLs**.
+The links in your browser address bar are Uniform Resource Locators, **URLs**.
 
 Let's dissect a URL:
 
@@ -80,9 +80,10 @@ You can think of a website as a folder of files.
 Thus, a **static website** is a collection of HTML, CSS, JS, images, and other files that are delivered exactly as they are on the server to users. 
 A URL in a static site generally represents a request for an HTML document in a specific file location.
 
-In contrast a **dynamic website** uses a server-side scripting language to create pages on the fly when a user makes a request. 
+In contrast a **dynamic website** uses a server-side programming language to create pages on the fly when a user makes a request. 
 Thus a URL represents a query, rather than an existing document on the server. 
 Think of complex sites such as social media, where users are constantly adding more data and there is no "static" documents, but streams of every changing content.
+None-the-less, what the server ultimately delivers to your browser is still HTML, CSS, and JS.
 
 In these platforms content, templates, and metadata are usually stored in a database. 
 For example, the popular [content management systems](https://en.wikipedia.org/wiki/Content_management_system) [WordPress](https://wordpress.com/) and [Drupal](https://www.drupal.org/) use the scripting language PHP and database MySQL.

@@ -9,7 +9,7 @@ JavaScript is a programming language originally designed for interacting with HT
 (note: it is *not* related to [Java](https://go.java/index.html)).
 JS has evolved into a powerful, multipurpose language that enables advanced interactivity and data processing on the **client-side**, i.e. in your web browser rather than on the server.
 
-Like CSS, JS can be written inline, in a script tag, or in an external file.
+Similar to CSS, JS can be written inline, in a script tag, or in an external file.
 Building on our previous `index.html` file, lets add some JS.
 
 #### Inline JS Attributes
@@ -18,7 +18,7 @@ Add an input button with the JS "onclick" attribute:
 
 `<button type="button" onclick="document.getElementById('alert').innerHTML = 'Changed!'">Inline JS</button>`
 
-Adding JS inline is simple, but has the same draw backs as inline CSS.
+Adding JS inline is simple, but has the same draw backs as inline CSS, mixing HTML semantic content with the visual presentation.
 
 #### Script Tag
 

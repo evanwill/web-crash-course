@@ -36,12 +36,12 @@ The rest of the content is **nested** inside the root element, so the final tag 
 ## Write HTML
 
 To create a web page we will use GitHub Pages free hosting service.
-Any GitHub repository can create a static website and once activated automatically appear in the github.io domain following the pattern: 
+Any GitHub repository can create a static website and once activated will automatically appear in the github.io domain following the pattern: 
 
 `https://username.github.io/repositoryname/`
 
 So let's get started!
-All the GitHub steps are below for reference, with the HTML file next.
+All the GitHub steps are below for reference, with the HTML examples following.
 
 #### 1. Create a new repository on GitHub
 
@@ -75,6 +75,7 @@ All the GitHub steps are below for reference, with the HTML file next.
 
 #### Basic HTML 
 
+We will start with an `index.html` file because by default the server provides index as the home page of your site.
 Our basic page, introducing head, title, body, headings, and paragraphs:
 
 ```
