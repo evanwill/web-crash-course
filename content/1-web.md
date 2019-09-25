@@ -21,9 +21,11 @@ Thus, one fascinating aspect of the web is that everyone must share code to part
 **Right click** on any web page and select "**View page source**" to see the code that is being rendered by the browser (shortcut: `Ctrl + U`). 
 
 Or put `view-source:` in front of any URL in your address bar, for example:
+
 `view-source:https://evanwill.github.io/web-crash-course/`
 
-Right click on any element in the page and select “Inspect” or “Inspect Element” to open your browser’s built in developer tools. This is a great way to learn about HTML and to understand how others created the sites you use.
+Right click on any element in the page and select “Inspect” or “Inspect Element” to open your browser’s built in **developer tools**. 
+This is a great way to learn about HTML and to understand how others created the sites you use.
 
 {% include figure.html img="sai-kiran-anagani-61187-unsplash.jpg" alt="code" width="65%" %}
 

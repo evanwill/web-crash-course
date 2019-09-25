@@ -41,7 +41,7 @@ Any GitHub repository can create a static website and once activated automatical
 `https://username.github.io/repositoryname/`
 
 So let's get started!
-Here are the steps for reference:
+All the GitHub steps are below for reference, with the HTML file next.
 
 #### 1. Create a new repository on GitHub
 
@@ -73,6 +73,8 @@ Here are the steps for reference:
 - Edit stuff
 - Scroll to the bottom, add a message, and click *Commit* (You just used Git again!)
 
+#### Basic HTML 
+
 Our basic page, introducing head, title, body, headings, and paragraphs:
 
 ```
@@ -88,7 +90,7 @@ Our basic page, introducing head, title, body, headings, and paragraphs:
 </html>
 ```
 
-Add:
+#### Add Elements 
 
 - comment, `<!-- not displayed -->`
 - inline elements, `<strong>bold</strong>` and `<em>italic</em>`
@@ -111,7 +113,7 @@ Add:
 </ol>
 ```
 
-{% include alert.md text="Note: Indentation is a convention to make HTML easier to read. It can help you quickly identify how the elements are nested. However, web browsers do not care! All extra white space and line breaks are ignored when rendering." color="info" %}
+{% include alert.md text="Note: Indentation is a convention to make HTML code easier to read. It can help you quickly identify how the elements are nested. However, web browsers do not care! All extra white space and line breaks are ignored when rendering." color="info" %}
 
 ---------
 

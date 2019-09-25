@@ -5,9 +5,9 @@ nav: true
 
 # JavaScript
 
-JavaScript is a programming language originally designed for interacting with HTML in the web browser.
-(note: it is *not* related to [Java](https://go.java/index.html))
-JS has developed into a powerful, multipurpose language that enables advanced interactivity and data processing on the **client-side**, i.e. in your web browser rather than on the server.
+JavaScript is a programming language originally designed for interacting with HTML in the web browser
+(note: it is *not* related to [Java](https://go.java/index.html)).
+JS has evolved into a powerful, multipurpose language that enables advanced interactivity and data processing on the **client-side**, i.e. in your web browser rather than on the server.
 
 Like CSS, JS can be written inline, in a script tag, or in an external file.
 Building on our previous `index.html` file, lets add some JS.
@@ -89,6 +89,8 @@ Now, with Bootstrap CSS and JS bundle being loaded on our HTML file, try adding 
 
 Notice that we didn't have to write any JS to add the Modal example. 
 Bootstrap's library takes care of it all if you follow the mark up pattern (basically adding the `data-target` attribute).
+
+{% include alert.md text="To debug JS, be sure to open your browser's dev tools and look at the **Console**. Any error messages will appear there! You can also use `console.log()` to send debug messages from your script." color="success" %}
 
 ------------
 
