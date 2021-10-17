@@ -24,7 +24,7 @@ Or put `view-source:` in front of any URL in your address bar, for example:
 
 `view-source:https://evanwill.github.io/web-crash-course/`
 
-Right click on any element in the page and select “Inspect” or “Inspect Element” to open your browser’s built in **developer tools**. 
+Right click on any element in the page and select "Inspect" or "Inspect Element" to open your browser's built in **developer tools**. 
 This is a great way to learn about HTML and to understand how others created the sites you use.
 
 {% include figure.html img="sai-kiran-anagani-61187-unsplash.jpg" alt="code" width="65%" %}
@@ -60,7 +60,7 @@ protocol `://` domain `.` top-level domain (optional port :80) `/` path and file
         </tr>
         <tr>
             <td><strong>Path + filename</strong></td>
-            <td>these can be imagined like folders and files on the server (and actually are in static web sites). For example, <code>/about/index.html</code>, is the index file in the "about" folder. If no filename is given, by default the server provides the file named `index`.</td>
+            <td>these can be imagined like folders and files on the server (and actually are in static web sites). For example, <code>/about/index.html</code>, is the index file in the "about" folder. If no filename is given, by default the server provides the file named <code>index</code>.</td>
         </tr>
         <tr>
             <td><strong>Query string</strong></td>
